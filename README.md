@@ -3,9 +3,9 @@
 
 ## SwoleNormous-GymFit-ReactVite-WebApp
 
-SwoleNormous is an ultimate gym training app built with React Vite and TailwindCSS.
+SwoleNormous is an ultimate gym training app built with React Vite and TailwindCSS and deployed on Netfily.
 
-**Note: To check this web app live, click here:** 
+**Note: To check this web app live, click here:** https://swolenormous-arnob.netlify.app
 
 ## To Install Dependences
 
