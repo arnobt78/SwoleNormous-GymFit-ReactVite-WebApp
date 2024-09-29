@@ -11,11 +11,11 @@ SwoleNormous is an ultimate gym training app built with React Vite and TailwindC
 
 Before launching this web application, be sure to install all required dependencies, which are listed in the package.json file.
 
-To install all dependences, run this command from your project folder: `npm install`
+To install all dependencies, run this command from your project folder: `npm install`
 
 ## To Install NodeJS
 
-Make sure you have NodeJS installed in your machine first, The installation instructions are here: https://nodejs.org/en/
+Make sure you have NodeJS installed on your machine first, The installation instructions are here: https://nodejs.org/en/
 
 ## To Create TailwindCSS React Vite Project
 
@@ -25,7 +25,7 @@ Then go to that project folder, and write this command via terminal from your pr
 
 Then install tailwindcss and its peer dependencies, then generate your `tailwind.config.js` and `postcss.config.js` files: `npx tailwindcss init -p`
 
-Then add the paths to all of your template files in your tailwind.config.js file.
+Then add the paths to all your template files in your tailwind.config.js file.
 
 ```
 /** @type {import('tailwindcss').Config} */
